@@ -1,11 +1,11 @@
-package Equal_arrays;
+package EqualArrays;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Main {
+public class EqualArrays {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         int[] firstArray = Arrays.stream(reader.readLine().split(" ")).mapToInt(e -> Integer.parseInt(e)).toArray();
@@ -27,7 +27,7 @@ public class Main {
         if (areIdentical) {
             System.out.printf("Arrays are identical. Sum: %d", sum);
         } else {
-            System.out.printf("Arrays are not identical. Found difference at %d index.",index);
+            System.out.printf("Arrays are not identical. Found difference at %d index.", index);
         }
     }
 }

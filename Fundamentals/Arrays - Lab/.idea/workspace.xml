@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18167c3c-f4ec-407e-8744-e053ec439663" name="Default Changelist" comment="" />
+    <list default="true" id="18167c3c-f4ec-407e-8744-e053ec439663" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PrintNumbersInReverseOrder/PrintNumbersInReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReverseArrayOfStrings/ReverseArrayOfStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Condense_array_to_number/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CondenseArrayToNumber/CondenseArrayToNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day_of_week/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DayOfWeek/DayOfWeek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Equal_arrays/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EqualArrays/EqualArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Even_and_odd_subtraction/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EvenAndOddSubtraction/EvenAndOddSubtraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Sum_even_numbers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumEvenNumbers/SumEvenNumbers.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,22 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day_of_week/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/DayOfWeek/DayOfWeek.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Print_numbers_in_reverse_order/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="306">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,10 +35,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Sum_even_numbers/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/PrintNumbersInReverseOrder/PrintNumbersInReverseOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="19" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,10 +47,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Reverse_array_of_strings/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/SumEvenNumbers/SumEvenNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" selection-end-line="15" />
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,10 +59,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Even_and_odd_subtraction/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/ReverseArrayOfStrings/ReverseArrayOfStrings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="24" selection-end-line="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -75,10 +71,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Equal_arrays/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/EvenAndOddSubtraction/EvenAndOddSubtraction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="31" column="5" selection-end-line="33" />
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,10 +83,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Condense_array_to_number/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/EqualArrays/EqualArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="5" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="561">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CondenseArrayToNumber/CondenseArrayToNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,6 +137,12 @@
         <option value="$PROJECT_DIR$/src/Even_and_odd_subtraction/Main.java" />
         <option value="$PROJECT_DIR$/src/Equal_arrays/Main.java" />
         <option value="$PROJECT_DIR$/src/Condense_array_to_number/Main.java" />
+        <option value="$PROJECT_DIR$/src/SumEvenNumbers/SumEvenNumbers.java" />
+        <option value="$PROJECT_DIR$/src/CondenseArrayToNumber/CondenseArrayToNumber.java" />
+        <option value="$PROJECT_DIR$/src/DayOfWeek/DayOfWeek.java" />
+        <option value="$PROJECT_DIR$/src/EqualArrays/EqualArrays.java" />
+        <option value="$PROJECT_DIR$/src/PrintNumbersInReverseOrder/PrintNumbersInReverseOrder.java" />
+        <option value="$PROJECT_DIR$/src/ReverseArrayOfStrings/ReverseArrayOfStrings.java" />
       </list>
     </option>
   </component>
@@ -144,6 +158,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,8 +170,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,13 +187,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sum_even_numbers.Main" />
+  <component name="RunManager" selected="Application.CondenseArrayToNumber">
+    <configuration name="CondenseArrayToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CondenseArrayToNumber.CondenseArrayToNumber" />
       <module name="Arrays - Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sum_even_numbers.*" />
+          <option name="PATTERN" value="CondenseArrayToNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse_array_of_strings.Main" />
+    <configuration name="EqualArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EqualArrays.EqualArrays" />
       <module name="Arrays - Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Reverse_array_of_strings.*" />
+          <option name="PATTERN" value="EqualArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Even_and_odd_subtraction.Main" />
+    <configuration name="EvenAndOddSubtraction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EvenAndOddSubtraction.EvenAndOddSubtraction" />
       <module name="Arrays - Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Even_and_odd_subtraction.*" />
+          <option name="PATTERN" value="EvenAndOddSubtraction.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Equal_arrays.Main" />
+    <configuration name="ReverseArrayOfStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseArrayOfStrings.ReverseArrayOfStrings" />
       <module name="Arrays - Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Equal_arrays.*" />
+          <option name="PATTERN" value="ReverseArrayOfStrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +240,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condense_array_to_number.Main" />
+    <configuration name="SumEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumEvenNumbers.SumEvenNumbers" />
       <module name="Arrays - Lab" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Condense_array_to_number.*" />
+          <option name="PATTERN" value="SumEvenNumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,11 +255,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.CondenseArrayToNumber" />
+        <item itemvalue="Application.EqualArrays" />
+        <item itemvalue="Application.EvenAndOddSubtraction" />
+        <item itemvalue="Application.ReverseArrayOfStrings" />
+        <item itemvalue="Application.SumEvenNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +279,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.53571427" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5415778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,92 +307,8 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Print_numbers_in_reverse_order/Main.java</url>
-          <line>10</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Sum_even_numbers/Main.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Even_and_odd_subtraction/Main.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Even_and_odd_subtraction.java" />
-    <entry file="file://$PROJECT_DIR$/src/Day_of_week/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Print_numbers_in_reverse_order/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reverse_array_of_strings/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Even_and_odd_subtraction/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="24" selection-end-line="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Equal_arrays/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="31" column="5" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Condense_array_to_number/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="5" selection-end-line="23" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Arrays - Lab.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -383,10 +316,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sum_even_numbers/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/CondenseArrayToNumber/CondenseArrayToNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="19" selection-start-line="9" selection-start-column="8" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="391">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DayOfWeek/DayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EqualArrays/EqualArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EvenAndOddSubtraction/EvenAndOddSubtraction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SumEvenNumbers/SumEvenNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseArrayOfStrings/ReverseArrayOfStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PrintNumbersInReverseOrder/PrintNumbersInReverseOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
